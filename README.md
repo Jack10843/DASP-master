@@ -34,7 +34,7 @@ python -m scripts.sac --env_name [ENVIRONMENT] --num_qs [NUMBEROFQ] --load_confi
 'NUMBEROFQ': e.g., 7 or 10.
 
 ### 2.2 Evaluation
-#### To evaluate trained agents in clean environments, run
+#### To evaluate trained agents in standard environments, run
 ```bash
 python -m scripts.sac --env_name [ENVIRONMENT] --num_qs [NUMBEROFQ] --eval_no_training --model_path [model path] \
 --load_path [load path] --exp_prefix eval_DASP
