@@ -1,4 +1,4 @@
-Self-contained implementation for paper "Variational OOD State Correction for Offline Reinforcement Learning".
+# **Self-contained implementation for paper "Variational OOD State Correction for Offline Reinforcement Learning".**
 
 DASP realize OOD state correction via the specifically designed variational model.
 
