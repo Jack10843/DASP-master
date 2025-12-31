@@ -52,6 +52,6 @@ python -m scripts.sac --env_name [ENVIRONMENT] --eval_no_training --load_path [m
 
 'epsilon': [0.0, 0.3].
 
-
+## **If you find our work helpful, please cite our work kindly. Thanks.** [Paper Link](https://arxiv.org/pdf/2505.00503).
 [//]: # (## Citation)
 
