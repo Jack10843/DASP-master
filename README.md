@@ -45,7 +45,7 @@ python -m scripts.sac --env_name [ENVIRONMENT] --num_qs [NUMBEROFQ] --eval_no_tr
 
 #### To evaluate trained agents in adversarial environments, run
 ```bash
-python -m scripts.sac --env_name [ENVIRONMENT] --eval_no_training --load_path [model path] \
+python -m scripts.sac --env_name [ENVIRONMENT] --eval_no_training --model_path [model path] \
 --load_path [load path] --eval_attack  --eval_attack_mode [mode] --eval_attack_eps [epsilon]  --exp_prefix eval_DASP
 ```
 'mode': 'random, action_diff, min_Q'.
